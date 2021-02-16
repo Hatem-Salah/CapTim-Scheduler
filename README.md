@@ -23,3 +23,6 @@ It consists of four files:
   * That file contains funtions for the scheduler.
   * It's fuly commented, so you can go and check it out.
   
+
+
+- Reference : Patterns for Time-Triggered Embedded Systems Book
