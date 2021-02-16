@@ -3,6 +3,7 @@
 This is a general cooperative scheduler suitable for the majority of
 ordinary AVR microcontrollers. That project is made essentially for 
 Real-Time Systems that needs task execution with some particular timing.
+##### Reference : Patterns for Time-Triggered Embedded Systems Book
 
 ## Project Files
 
@@ -22,9 +23,3 @@ It consists of four files:
 ### 4. CapTim_Sch.c :
   * That file contains funtions for the scheduler.
   * It's fuly commented, so you can go and check it out.
-  
-
-
-
-
-Reference : Patterns for Time-Triggered Embedded Systems Book
