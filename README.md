@@ -25,4 +25,6 @@ It consists of four files:
   
 
 
-- Reference : Patterns for Time-Triggered Embedded Systems Book
+
+
+Reference : Patterns for Time-Triggered Embedded Systems Book
